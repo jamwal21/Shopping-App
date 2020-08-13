@@ -4,9 +4,9 @@
     "slug": "ShopApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/supermarket.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashImage.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description":"A shop app in which you have to authenticate using your email.You can create,edit or delete products.Use of firebase,hooks and redux"
   }
 }
